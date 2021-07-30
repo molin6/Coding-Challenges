@@ -1,6 +1,16 @@
 import sys
 import itertools
-
+#Test Cases
+list = [
+['a','b','c'],
+[4,5],
+(1,0)
+]
+list = [
+[1,2,3],
+[4,5],
+(2,1)
+]
 list = [
 [1,2,3],
 [4,5],
